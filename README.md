@@ -1,6 +1,6 @@
 # Flutter Widget Livebook
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lijy91%40live.com&currency_code=USD&source=url)
+![]( https://visitor-badge.glitch.me/badge?page_id=flutter-widget-livebook)
 
 English | [简体中文](./README.zh_CN.md)
 
